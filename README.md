@@ -1,8 +1,8 @@
 # Describe Your Ex in One Word
 
-[![make.fun](https://make.fun/badge/competition/u-puan-describe-your-ex-in-one-word-9fc6ebe7)](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7)
-[![make.fun](https://make.fun/badge/rank/u-puan-describe-your-ex-in-one-word-9fc6ebe7)](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7)
-[![make.fun](https://make.fun/badge/reward/u-puan-describe-your-ex-in-one-word-9fc6ebe7)](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7)
+[![make.fun](https://make.fun/badge/u-puan-describe-your-ex-in-one-word-9fc6ebe7.svg)](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7)
+[![rank](https://make.fun/badge/u-puan-describe-your-ex-in-one-word-9fc6ebe7/gibalers-rgb/u-puan-describe-your-ex-in-one-word-9fc6ebe7/rank.svg)](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7)
+[![reward](https://make.fun/badge/u-puan-describe-your-ex-in-one-word-9fc6ebe7/gibalers-rgb/u-puan-describe-your-ex-in-one-word-9fc6ebe7/reward.svg)](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7)
 
 Entry for the make.fun bounty [Describe Your Ex in One Word](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7) ($2 pool, top 5 share it).
 
